@@ -4,3 +4,5 @@ dist/
 build/
 node_modules/
 logs/*.logs
+.env
+**/*_note.md
